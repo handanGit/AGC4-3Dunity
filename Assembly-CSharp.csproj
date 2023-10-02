@@ -61,8 +61,15 @@
     <Compile Include="Assets\Script\Ball_Controller.cs" />
     <Compile Include="Assets\Script\Paddel_Controller.cs" />
     <Compile Include="Assets\Script\Switch_Controller.cs" />
+    <Compile Include="Assets\Script\TriggerZoomOut_Controller.cs" />
+    <Compile Include="Assets\Script\TriggerZoomIn_Controller.cs" />
     <Compile Include="Assets\Script\Launcher_Controller.cs" />
+    <Compile Include="Assets\Script\AudioManager.cs" />
     <Compile Include="Assets\Script\Bumper_Controller.cs" />
+    <Compile Include="Assets\Script\SFX_Controller.cs" />
+    <Compile Include="Assets\Script\VFXManager.cs" />
+    <Compile Include="Assets\Script\FX_Controller.cs" />
+    <Compile Include="Assets\Script\Camera_Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
